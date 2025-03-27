@@ -1,7 +1,7 @@
 # Loan prediction Regression Baseline Model – Numerical Features Only
 This project demonstrates the process of building a **baseline classification model** using **Logistic Regression**, focused exclusively on **numerical features**. It walks through essential steps of **data preprocessing**, **model building**, and **performance evaluation**, offering a strong foundation for solving real-world classification problems using Python and machine learning.
 
-## 📌 Project Overview
+## Project Overview
 The goal is to create a baseline model using **Logistic Regression** and evaluate its performance using **numerical features only**. Participants will:
 - Handle missing values and outliers.
 - Scale features for model compatibility.
@@ -38,15 +38,14 @@ By completing this project, you will learn to:
 ### Compile and Present Results
 - Create a **summary table** with all performance metrics for easy interpretation.
 
-## 📊 Tools and Libraries Used
-
-- **Python** 🐍
+## Tools and Libraries Used
+- **Python** 
 - **Pandas** for data handling
 - **NumPy** for numerical operations
 - **Matplotlib** & **Seaborn** for visualizations
 - **Scikit-learn** for model building and evaluation
 
-## 🛠️ Project Workflow
+## Project Workflow
 1. Load and Explore Dataset
 2. Identify Numerical Features
 3. Handle Missing Values (Median Imputation)
